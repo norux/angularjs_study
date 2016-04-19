@@ -1,7 +1,7 @@
 [ {"category": "Watersports", "description": "Protective and fashionable",
     "name": "Lifejacket", "price": 48.95, "id" : "3d31d81b218c98ef"},
   {"category": "Soccer", "description": "FIFA-approved size and weight",
-    "name": "Soccer B all" , "price":19.5,"id" : "437615fafld38815n"},
+    "name": "Soccer Ball" , "price":19.5,"id" : "437615fafld38815n"},
   {"category": "Soccer","description": "Give your playing field a professional touch",
     "name": "Corner Flags", "price": 34.95, "id" : "93c9cc08ac2f28d4"},
   {"category": "Soccer", "description": "Flat-packed-seat stadium",
@@ -13,4 +13,7 @@
   {"category": "Chess", "description": "A fun game for the family",
     "name": "Human Chess Board","price":75,"id" : "5241512218f73a26n"},
   {"category": "Chess", "description": "Gold-plated, diamond-studded King",
-    "name": "Bling-Bling King", "price":1200,"id" : "59166228d70f8858n"}]
+    "name": "Bling-Bling King", "price":1200,"id" : "59166228d70f8858n"},
+  {"category": "Soccer", "description": "토트넘 경기 티켓",
+    "name": "토트넘 마지막 홈경기", "price":430,"id" : "39161228c70fa858n"}
+]
